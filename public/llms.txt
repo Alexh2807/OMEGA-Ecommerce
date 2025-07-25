@@ -1,0 +1,13 @@
+## Pages
+- [Commande - OMEGA Solutions Professionnelles](/checkout): Finaliser votre commande OMEGA
+- [Connexion - OMEGA Solutions Professionnelles](/login): Connectez-vous à votre compte OMEGA pour accéder à vos commandes et profiter d
+- [Gestion des Commandes - Administration OMEGA](/adminorders): Gérez les commandes de votre boutique OMEGA
+- [Gestion des Produits - Administration OMEGA](/adminproducts): Gérez les produits de votre catalogue OMEGA
+- [Inscription - OMEGA Solutions Professionnelles](/register): Créez votre compte OMEGA pour accéder à nos produits professionnels et bénéficier d
+- [Mon Profil - OMEGA Solutions Professionnelles](/profile): Gérez vos informations personnelles et préférences de compte OMEGA
+- [OMEGA - Solutions Professionnelles depuis 1996](/home): OMEGA propose des services de prestation et la vente de produits, machines, câbles depuis 1996. Solutions professionnelles de qualité.
+- [Panier - OMEGA Solutions Professionnelles](/cart): Votre panier d
+- [Paramètres - Administration OMEGA](/adminsettings): Gérez les paramètres de votre site OMEGA
+- [Rapports - Administration OMEGA](/adminreports): Générez des rapports de ventes et comptables pour OMEGA
+- [Statut du Paiement - OMEGA](/paymentstatus): No description available
+- [Untitled Page](/orders): Suivez vos commandes OMEGA et consultez l

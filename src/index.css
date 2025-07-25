@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+:root {
+  --background: 222 47% 11%; /* Dark blue-gray */
+  --foreground: 210 40% 98%; /* Almost white */
+  --card: 222 47% 15%; /* Slightly lighter dark blue-gray */
+  --card-foreground: 210 40% 98%;
+  --popover: 222 47% 11%;
+  --popover-foreground: 210 40% 98%;
+  --primary: 217 91% 60%; /* Bright blue */
+  --primary-foreground: 210 40% 98%;
+  --secondary: 217 33% 17%;
+  --secondary-foreground: 210 40% 98%;
+  --muted: 217 33% 17%;
+  --muted-foreground: 215 20% 65%;
+  --accent: 217 33% 17%;
+  --accent-foreground: 210 40% 98%;
+  --destructive: 0 63% 31%;
+  --destructive-foreground: 210 40% 98%;
+  --border: 217 33% 25%;
+  --input: 217 33% 25%;
+  --ring: 217 91% 60%;
+  --radius: 0.5rem;
+}
+
+* {
+  border-color: hsl(var(--border));
+}
+
+body {
+  background-color: hsl(var(--background));
+  color: hsl(var(--foreground));
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.omega-blue {
+  color: hsl(var(--primary));
+}
+
+.omega-gradient {
+  background: linear-gradient(to right, hsl(217, 91%, 60%), hsl(217, 91%, 70%));
+  color: hsl(var(--primary-foreground));
+  transition: all 0.3s ease;
+}
+.omega-gradient:hover {
+  box-shadow: 0 0 20px hsl(217, 91%, 60%, 0.5);
+  transform: translateY(-2px);
+}
